@@ -10,3 +10,4 @@ Name versions simply, like v1, v2, v3
 Keep project copy simple and direct. Don't give technical, defensive, or repetitive explanations
 Don't over-engineer compliance checks/safety guards/defensive scaffolding mid-task. Inspect ONLY upon all tasks completion
 Always search for the latest information
+formal, plain-language, complete declarative sentences
